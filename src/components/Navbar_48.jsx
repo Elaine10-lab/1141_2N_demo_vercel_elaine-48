@@ -65,6 +65,7 @@ const Navbar_48 = () => {
               <Link to="#">Demo +</Link>
               <div className="sub-menu-wrapper slideInUp">
                 <ul className="sub-menu">
+                  <li className="menu-item"><Link to="/booklist_48">W2-BookListPage_48</Link></li>
                   <li className="menu-item"><Link to="/static_48">W3-BlogsStatic_48</Link></li>
                   <li className="menu-item"><Link to="/localjson_48">W3-BlogLocalJson_48</Link></li>
                   <li className="menu-item"><Link to="/node_48">W4-BlogNode_48</Link></li>
